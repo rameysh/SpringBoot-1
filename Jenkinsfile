@@ -8,3 +8,10 @@ pipeline {
         }
     }
 }
+def notify(status){
+    emailext (
+        to: "jampana2021@gmail.com",
+        
+    )
+
+}
