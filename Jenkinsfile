@@ -8,4 +8,3 @@ pipeline {
         }
     }
 }
-© 2019 GitHu
